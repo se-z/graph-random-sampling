@@ -1,0 +1,6 @@
+data_path = "./demo-data"
+struct_file_name = "0.xsdf"
+random_graph_num = 100
+random_graph_max_size = 4
+random_graph_under_size = 2
+random_graph_uniform_sampling_parameter = 0.1
