@@ -28,7 +28,7 @@ Ubunts 7.3.0
 - gcc 7.3.0
 
 ## 3rd party library
-- [toml](https://github.com/ToruNiina/toml11)
+- [toml11](https://github.com/ToruNiina/toml11)
 
 ## Install
 `$ git clone --recurse-submodules git@github.com:se-z/graph-random-sampling.git`
